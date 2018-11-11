@@ -1,5 +1,5 @@
 // control the auto refresh rate -> 1000 = 1 second
-var refreshRate = 15 * 10000; // 15 Minutes
+var refreshRate = 60 * 1000; // 1 Minutes
 
 
 // Automatically reload the browser
